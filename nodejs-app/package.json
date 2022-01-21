@@ -1,4 +1,5 @@
-me": "nodejs-app",
+{
+  "name": "nodejs-app",
   "version": "1.0.0",
   "description": "Hello World App",
   "main": "server.js",
